@@ -1,0 +1,39 @@
+{
+  "passengers": [
+    {
+      "fullname": "Daniel",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "hand-only",
+      "checkInDate": 1674756447062
+    },
+    {
+      "fullname": "Adam Nowak",
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 1490742000000
+    },
+    {
+      "id": 3,
+      "fullname": "Todd Motto :)",
+      "checkedIn": true,
+      "checkInDate": 1488412800000,
+      "baggage": ""
+    },
+    {
+      "fullname": "Louisee",
+      "id": 4,
+      "checkedIn": true,
+      "baggage": "",
+      "checkInDate": 1671447168343
+    },
+    {
+      "id": 5,
+      "fullname": "Tina",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    }
+  ]
+}

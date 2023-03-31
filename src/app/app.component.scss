@@ -1,0 +1,18 @@
+.nav{
+  margin: 0 0 1px;
+  padding: 0 0 20px;
+  border-bottom: 2px solid #d6dde7;
+
+  a {
+    background-color: #3a4250;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0 14px;
+    border-radius: 25% 10%;
+    &.active{
+      color: #d690f1;
+      background: #363c48;
+    }
+  }
+
+}

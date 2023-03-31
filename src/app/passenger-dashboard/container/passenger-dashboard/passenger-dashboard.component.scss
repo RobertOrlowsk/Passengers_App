@@ -1,0 +1,25 @@
+.content{
+  margin: 10px;
+  .passenger_name{
+    background-color: #fafafa;
+    text-align: center;
+    padding: 10px;
+
+    &.checked-in{
+      background-color: lime;
+      width: 10px;
+      height: 10px;
+      background-color: red;
+      display: block;
+      margin: 6px 5px 0 0;
+      float: left;
+      border-radius: 50%;
+    }
+  }
+
+  .passenger_name__display{
+    font-size: 16px;
+    margin: 2px 0 1px;
+    font-weight: 300;
+  }
+}
